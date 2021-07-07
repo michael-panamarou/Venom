@@ -1,4 +1,4 @@
-# Venom - 
+# Venom - training project
 Venom movie start page
 ## The project was implemented by Misha 
 
